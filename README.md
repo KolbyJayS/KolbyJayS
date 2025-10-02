@@ -38,4 +38,3 @@ Simulated enterprise environment for testing security monitoring, detection, and
 
 - 📧 Email: [kolbyjskolrood@gmail.com](mailto:kolbyjskolrood@gmail.com)  
 - 💼 LinkedIn: [www.linkedin.com/in/kolby-skolrood-387564357](#)  
-- 🌐 GitHub Repositories: [github.com/KayJayS](#)  
